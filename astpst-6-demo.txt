@@ -1,0 +1,1 @@
+This is a Jira–GitHub integration test for ASTPST-6.
